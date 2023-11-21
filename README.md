@@ -2,7 +2,7 @@
 
 テンプレート用
 
-2023-07に
+2023-07 に
 
 ```bash
 pnpm create vite my-react-app
